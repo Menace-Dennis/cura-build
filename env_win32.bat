@@ -1,2 +1,2 @@
-set PYTHONPATH=%cd%\inst\lib\python3.5\site-packages
+set PYTHONPATH=%cd%\inst\lib\python3.8\site-packages
 set PATH=%cd%\inst\bin;%PATH%
